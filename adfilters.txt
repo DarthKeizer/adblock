@@ -1,2 +1,4 @@
 javfind.com
 javfind.com/*
+|| javfind.com
+|| javfind.com/*
