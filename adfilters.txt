@@ -1,1 +1,2 @@
 javfind.com
+javfind.com/*
