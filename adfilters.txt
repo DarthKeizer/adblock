@@ -23,3 +23,8 @@ www.linuxandubuntu.com##.fancyboxPop-inner
 ! 9-5-2017 08:03:36 http://www.linuxandubuntu.com/home/whatsie-install-use-whatsapp-in-linux
 ||popup2.lifterapps.com/dependencies/fancybox/fancybox_overlay.png$image
 
+! 5/28/2017, 10:47:29 AM http://codexpcgames.com/
+codexpcgames.com##.mormXHyaENry-bg
+
+! 5/28/2017, 10:47:37 AM http://codexpcgames.com/
+codexpcgames.com##.mormXHyaENry-default
